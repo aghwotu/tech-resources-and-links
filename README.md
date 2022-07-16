@@ -8,3 +8,10 @@
 
 ## Articles
 - [How to prepare for a technical interview](https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview)
+
+## Twitter accounts to follow
+- [Ivy Barley](https://twitter.com/ivybarley)
+
+## Youtube Channels
+- [Neetcode](https://www.youtube.com/c/NeetCode)
+
