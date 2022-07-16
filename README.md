@@ -15,3 +15,9 @@
 ## Youtube Channels
 - [Neetcode](https://www.youtube.com/c/NeetCode)
 
+## Subreddits on Reddit
+- [Software Architecture](https://www.reddit.com/r/softwarearchitecture/)
+- [Learn Programming](https://www.reddit.com/r/learnprogramming/)
+
+## Stackexchange websites
+- [Workplace Stackexchange](https://workplace.stackexchange.com/)
