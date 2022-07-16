@@ -8,6 +8,7 @@
 
 ## Articles
 - [How to prepare for a technical interview](https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview)
+- [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 
 ## Twitter accounts to follow
 - [Ivy Barley](https://twitter.com/ivybarley)
