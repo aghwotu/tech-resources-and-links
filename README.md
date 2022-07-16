@@ -19,6 +19,7 @@
 ## Subreddits on Reddit
 - [Software Architecture](https://www.reddit.com/r/softwarearchitecture/)
 - [Learn Programming](https://www.reddit.com/r/learnprogramming/)
+- [Experienced Devs](https://www.reddit.com/r/ExperiencedDevs/)
 
 ## Stackexchange websites
 - [Workplace Stackexchange](https://workplace.stackexchange.com/)
